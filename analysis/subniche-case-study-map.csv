@@ -1,0 +1,100 @@
+Segment,Sub-niche,Leads,Companies,Best case study,Fit,Why it fits,Backup case study,Proof line (source)
+Industrial Machinery & Equipment,General Industrial Machinery,1182,521,NextPower,Good,Equipment manufacturer with a logistics visibility problem; closest manufacturer proof we have,Diagon / Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,"Automation, Robotics & Motion Control",395,185,NextPower,Moderate,Built a software layer for an equipment maker; automation buyers care about workflow time saved,Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,"Engines, Power Systems & Generators",343,90,NextPower,Good,"Energy equipment manufacturer, same buyer world as engines and power systems",Blue Planet Energy,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,"Construction, Mining & Heavy Equipment",337,142,NextPower,Moderate,"Field-ready tablet and mobile tooling, delivery tracking for large projects",Diagon,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,"Industrial Tools, Machining & 3D Printing",234,107,Partsimony,Good,CAD file analysis and manufacturing sourcing workflows,Diagon,10x enterprise pipeline; founder quote (public page)
+Industrial Machinery & Equipment,"Pumps, Valves, Filtration & Flow",213,114,NextPower,Moderate,Equipment maker; shipping and tracking transparency applies to parts and aftermarket,Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,"HVAC, Thermal & Building Systems",133,72,NextPower,Moderate,"Energy products sold through installers and distributors, delivery visibility",Blue Planet Energy,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Industrial Machinery & Equipment,Material Handling & Packaging Machinery,64,38,NextPower,Moderate,Shipping and tracking platform is the nearest logistics proof,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Electronics & Electrical Equipment,General Electronics Manufacturing,472,245,Roland,Moderate,Electronics hardware maker with a big ROI claim; page not yet read,Partsimony,"50x ROI on a 24-week project (CSV only, page not read)"
+Electronics & Electrical Equipment,"Power, Grid & Electrical Equipment",287,156,NextPower,Strong,"Energy equipment and software, same buyers",Amperon / Blue Planet Energy,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Electronics & Electrical Equipment,Appliances & Home Electronics,273,154,Roland,Moderate,Consumer electronics hardware maker; page not yet read,Bellwether Coffee,"50x ROI on a 24-week project (CSV only, page not read)"
+Electronics & Electrical Equipment,Semiconductors & Semiconductor Equipment,200,156,Partsimony,Weak,Hardware supply chain angle only; no semiconductor case study,Roland,10x enterprise pipeline; founder quote (public page)
+Electronics & Electrical Equipment,"Sensors, Connectors & Components",177,87,Partsimony,Moderate,Sourcing and manufacturing workflow for hardware companies,Roland,10x enterprise pipeline; founder quote (public page)
+Electronics & Electrical Equipment,"Computer, Networking & Telecom Hardware",145,85,Partsimony,Weak,Hardware angle only,Roland,10x enterprise pipeline; founder quote (public page)
+"Packaging, Plastics, Paper & Printing",Flexible & Food/Beverage Packaging,266,100,Philips,Weak,No packaging case study; supply chain and working-capital angle only,Partsimony,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+"Packaging, Plastics, Paper & Printing","Rigid, Plastic & Protective Packaging",198,113,Partsimony,Weak,No packaging case study; manufacturing workflow angle only,Philips,10x enterprise pipeline; founder quote (public page)
+"Packaging, Plastics, Paper & Printing",General Packaging,189,108,Philips,Weak,No packaging case study; supply chain angle only,Partsimony,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+"Packaging, Plastics, Paper & Printing","Paper, Corrugated & Folding Cartons",134,72,Philips,Weak,No packaging case study; supply chain angle only,Partsimony,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+"Packaging, Plastics, Paper & Printing",Plastics Molding & Polymers,110,60,Partsimony,Weak,Manufacturing workflow angle only,Philips,10x enterprise pipeline; founder quote (public page)
+"Packaging, Plastics, Paper & Printing",Printing & Labels,38,18,None,None,Nothing relevant,"Staples (print/office supplies retailer, weak)",-
+Building Materials & Products,"Windows, Doors & Millwork",254,124,Partsimony,Weak,Manufacturing procurement angle only,NextPower,10x enterprise pipeline; founder quote (public page)
+Building Materials & Products,"Cement, Concrete, Aggregates & Asphalt",225,91,NextPower,Moderate,Material delivery status visibility maps to heavy materials logistics,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Building Materials & Products,General Building Products,218,85,NextPower,Weak,Material delivery visibility angle,Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Building Materials & Products,"Roofing, Siding, Insulation & Flooring",134,61,NextPower,Weak,Material delivery visibility angle,Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Building Materials & Products,"Lumber, Steel & Structural Products",51,28,NextPower,Weak,Material delivery visibility angle,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Automotive & Transportation Equipment,"Heavy Trucks, Engines & Powertrain",254,62,NextPower,Moderate,"Equipment manufacturer, large-scale physical operations",Partsimony,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Automotive & Transportation Equipment,Auto Parts & Components (OEM / Aftermarket),211,80,Partsimony,Moderate,Manufacturing sourcing and supplier workflows,Philips,10x enterprise pipeline; founder quote (public page)
+Automotive & Transportation Equipment,"Vehicle OEMs, EV & Autonomy",89,54,Boom Supersonic,Weak,"Transport hardware launch, but it was a brand and web build",Virgin Hyperloop (gated),12 months to platform launch (public page)
+Automotive & Transportation Equipment,Rail & Shipbuilding,11,10,Virgin Hyperloop,Weak,Transport hardware; details gated,NextPower,Gated
+Automotive & Transportation Equipment,General Automotive Manufacturing,246,108,Partsimony,Weak,Manufacturing workflow angle only,Philips,10x enterprise pipeline; founder quote (public page)
+Chemicals & Metals,Specialty & Industrial Chemicals,166,74,Philips,Weak,Supply chain and working-capital angle only,None,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+Chemicals & Metals,General Chemicals & Metals,56,38,Philips,Weak,Supply chain angle only,None,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+Chemicals & Metals,"Steel, Aluminum & Metal Products",45,23,Partsimony,Weak,Manufacturing workflow angle only,Philips,10x enterprise pipeline; founder quote (public page)
+Chemicals & Metals,Mining & Minerals,41,20,None,None,Nothing relevant,NextPower (weak),-
+"Consumer Goods, Food & Furniture",General Consumer Goods,169,97,Philips,Weak,"Supply chain angle; health technology, not consumer goods",Staples,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+"Consumer Goods, Food & Furniture",Furniture & Home Goods,84,41,Staples,Weak,"Staples shipped an office furniture sub-brand site, a web build",Philips,20 digital products in 12 weeks (public page)
+"Consumer Goods, Food & Furniture",Food & Beverage Production,51,32,Bellwether Coffee,Weak,"Food and beverage hardware, no metric",Philips,No metric published (CSV only)
+"Consumer Goods, Food & Furniture","Apparel, Textiles & Sporting Goods",2,2,None,None,Nothing relevant (2 leads),Staples,-
+Aerospace & Defense,Defense & Space,132,57,Ursa Major,Good,Propulsion manufacturer; Astroscale is space hardware,Astroscale,30% increase in client engagement; no baseline (public page)
+Aerospace & Defense,Commercial Aerospace & Aviation,14,8,Boom Supersonic,Good,Commercial aerospace; but a brand and web launch,Ursa Major,12 months to platform launch (public page)
+Aerospace & Defense,General Aerospace & Defense,53,22,Ursa Major,Good,Aerospace manufacturer,Boom Supersonic,30% increase in client engagement; no baseline (public page)
+Medical Devices & Pharma,Medical Devices & Equipment,55,31,Philips,Moderate,Health technology; figures gated,None,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+Medical Devices & Pharma,Pharma & Life Sciences Manufacturing,21,10,Philips,Weak,"Health technology, not pharma",None,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+Medical Devices & Pharma,General Medical,74,34,Philips,Weak,Health technology,None,Working-capital and freight outcomes signed off by Philips Finance; figures gated (public page)
+Non-manufacturing / Other,oil & energy,354,140,NextPower,Strong,Energy equipment manufacturer with a named quote,Amperon / Blue Planet Energy,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,renewables & environment,175,56,NextPower,Strong,Solar equipment maker,Blue Planet Energy,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,utilities,128,39,Amperon,Strong,Energy demand forecasting for utilities; page not yet read,NextPower,"~100x valuation growth, 30x team size (CSV only, page not read)"
+Non-manufacturing / Other,logistics & supply chain,160,68,NextPower,Strong,Shipping and tracking platform,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,transportation/trucking/railroad,73,47,NextPower,Strong,Shipping and tracking platform for logistics teams,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,warehousing,14,9,NextPower,Strong,Shipping and tracking platform for logistics teams,Philips,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,architecture & planning,53,24,JLL,Weak,"Real estate and planning adjacent; mostly design firms, low priority",None,70% faster lease processing (public page)
+Non-manufacturing / Other,construction,842,368,NextPower,Moderate,Project and materials delivery visibility,JLL,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,environmental services,103,37,NextPower,Weak,Operations visibility angle,None,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,civil engineering,73,32,NextPower,Weak,Project delivery visibility angle,None,"20,000+ work hours a year removed; product launched in 6 months; named VP quote (public page)"
+Non-manufacturing / Other,retail,349,169,Staples,Strong,Retail; 20 digital products in 12 weeks,C&A (gated),20 digital products in 12 weeks (public page)
+Non-manufacturing / Other,wholesale,144,75,Staples,Moderate,Retail and supply chain,Philips,20 digital products in 12 weeks (public page)
+Non-manufacturing / Other,information technology & services,410,166,Nespon,Moderate,IT consulting firm; CSV only,Loop,Improved sales conversion (CSV only)
+Non-manufacturing / Other,telecommunications,180,80,None,None,Nothing relevant,Nespon (weak),-
+Non-manufacturing / Other,management consulting,96,30,Nespon,Weak,IT consulting firm,None,Improved sales conversion (CSV only)
+Non-manufacturing / Other,design,72,33,None,None,Not mapped,-,-
+Non-manufacturing / Other,marketing & advertising,50,28,None,None,Not mapped,-,-
+Non-manufacturing / Other,facilities services,49,25,None,None,Not mapped,-,-
+Non-manufacturing / Other,public safety,39,11,None,None,Not mapped,-,-
+Non-manufacturing / Other,consumer services,31,12,None,None,Not mapped,-,-
+Non-manufacturing / Other,investment management,27,11,None,None,Not mapped,-,-
+Non-manufacturing / Other,gambling & casinos,25,24,None,None,Not mapped,-,-
+Non-manufacturing / Other,(blank),19,12,None,None,Not mapped,-,-
+Non-manufacturing / Other,research,18,13,None,None,Not mapped,-,-
+Non-manufacturing / Other,entertainment,17,11,None,None,Not mapped,-,-
+Non-manufacturing / Other,government administration,15,8,None,None,Not mapped,-,-
+Non-manufacturing / Other,security & investigations,15,9,None,None,Not mapped,-,-
+Non-manufacturing / Other,law practice,13,3,None,None,Not mapped,-,-
+Non-manufacturing / Other,media production,12,4,None,None,Not mapped,-,-
+Non-manufacturing / Other,financial services,11,9,None,None,Not mapped,-,-
+Non-manufacturing / Other,staffing & recruiting,9,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,recreational facilities & services,7,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,supermarkets,6,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,hospital & health care,5,5,None,None,Not mapped,-,-
+Non-manufacturing / Other,music,5,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,commercial real estate,4,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,executive office,4,4,None,None,Not mapped,-,-
+Non-manufacturing / Other,"health, wellness & fitness",4,3,None,None,Not mapped,-,-
+Non-manufacturing / Other,business supplies & equipment,3,3,None,None,Not mapped,-,-
+Non-manufacturing / Other,venture capital & private equity,3,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,education management,2,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,events services,2,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,hospitality,2,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,individual & family services,2,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,information services,2,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,insurance,2,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,sports,2,2,None,None,Not mapped,-,-
+Non-manufacturing / Other,veterinary,2,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,accounting,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,import & export,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,international trade & development,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,market research,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,nonprofit organization management,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,outsourcing/offshoring,1,1,None,None,Not mapped,-,-
+Non-manufacturing / Other,restaurants,1,1,None,None,Not mapped,-,-

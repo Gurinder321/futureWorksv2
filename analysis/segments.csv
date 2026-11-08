@@ -1,0 +1,91 @@
+Segment,Industry (source label),Leads,Segment total,% of list
+Industrial Machinery & Equipment,machinery,2180,2901,24.8%
+Industrial Machinery & Equipment,mechanical or industrial engineering,654,2901,24.8%
+Industrial Machinery & Equipment,industrial automation,67,2901,24.8%
+Building Materials & Construction,construction,842,1971,16.9%
+Building Materials & Construction,building materials,809,1971,16.9%
+Building Materials & Construction,civil engineering,73,1971,16.9%
+Building Materials & Construction,"glass, ceramics & concrete",73,1971,16.9%
+Building Materials & Construction,design,72,1971,16.9%
+Building Materials & Construction,architecture & planning,53,1971,16.9%
+Building Materials & Construction,facilities services,49,1971,16.9%
+Electronics & Semiconductors,electrical/electronic manufacturing,1225,1554,13.3%
+Electronics & Semiconductors,semiconductors,260,1554,13.3%
+Electronics & Semiconductors,computer hardware,60,1554,13.3%
+Electronics & Semiconductors,nanotechnology,5,1554,13.3%
+Electronics & Semiconductors,consumer electronics,2,1554,13.3%
+Electronics & Semiconductors,computer networking,1,1554,13.3%
+Electronics & Semiconductors,wireless,1,1554,13.3%
+"Packaging, Plastics, Paper & Printing",packaging & containers,522,935,8.0%
+"Packaging, Plastics, Paper & Printing",plastics,215,935,8.0%
+"Packaging, Plastics, Paper & Printing",paper & forest products,121,935,8.0%
+"Packaging, Plastics, Paper & Printing",printing,77,935,8.0%
+"Consumer Goods, Food & Retail",retail,349,837,7.2%
+"Consumer Goods, Food & Retail",consumer goods,177,837,7.2%
+"Consumer Goods, Food & Retail",wholesale,144,837,7.2%
+"Consumer Goods, Food & Retail",food & beverages,53,837,7.2%
+"Consumer Goods, Food & Retail",consumer services,31,837,7.2%
+"Consumer Goods, Food & Retail",furniture,30,837,7.2%
+"Consumer Goods, Food & Retail",textiles,18,837,7.2%
+"Consumer Goods, Food & Retail",farming,13,837,7.2%
+"Consumer Goods, Food & Retail",food production,13,837,7.2%
+"Consumer Goods, Food & Retail",supermarkets,6,837,7.2%
+"Consumer Goods, Food & Retail",apparel & fashion,1,837,7.2%
+"Consumer Goods, Food & Retail",restaurants,1,837,7.2%
+"Consumer Goods, Food & Retail",sporting goods,1,837,7.2%
+"IT, Telecom & Services",information technology & services,410,824,7.1%
+"IT, Telecom & Services",telecommunications,180,824,7.1%
+"IT, Telecom & Services",management consulting,96,824,7.1%
+"IT, Telecom & Services",marketing & advertising,50,824,7.1%
+"IT, Telecom & Services",public safety,39,824,7.1%
+"IT, Telecom & Services",research,18,824,7.1%
+"IT, Telecom & Services",security & investigations,15,824,7.1%
+"IT, Telecom & Services",staffing & recruiting,9,824,7.1%
+"IT, Telecom & Services",business supplies & equipment,3,824,7.1%
+"IT, Telecom & Services",information services,2,824,7.1%
+"IT, Telecom & Services",market research,1,824,7.1%
+"IT, Telecom & Services",outsourcing/offshoring,1,824,7.1%
+Automotive & Transportation Equipment,automotive,789,811,6.9%
+Automotive & Transportation Equipment,railroad manufacture,13,811,6.9%
+Automotive & Transportation Equipment,shipbuilding,8,811,6.9%
+Automotive & Transportation Equipment,maritime,1,811,6.9%
+"Energy, Utilities & Environmental",oil & energy,354,760,6.5%
+"Energy, Utilities & Environmental",renewables & environment,175,760,6.5%
+"Energy, Utilities & Environmental",utilities,128,760,6.5%
+"Energy, Utilities & Environmental",environmental services,103,760,6.5%
+"Chemicals, Metals & Mining",chemicals,182,308,2.6%
+"Chemicals, Metals & Mining",mining & metals,126,308,2.6%
+"Logistics, Transport & Warehousing",logistics & supply chain,160,249,2.1%
+"Logistics, Transport & Warehousing",transportation/trucking/railroad,73,249,2.1%
+"Logistics, Transport & Warehousing",warehousing,14,249,2.1%
+"Logistics, Transport & Warehousing",import & export,1,249,2.1%
+"Logistics, Transport & Warehousing",international trade & development,1,249,2.1%
+"Aerospace, Defense & Space",defense & space,105,199,1.7%
+"Aerospace, Defense & Space",aviation & aerospace,80,199,1.7%
+"Aerospace, Defense & Space",airlines/aviation,14,199,1.7%
+"Other / Misc (finance, media, gov, etc.)",investment management,27,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",gambling & casinos,25,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",(blank),19,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",entertainment,17,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",government administration,15,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",law practice,13,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",media production,12,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",financial services,11,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",recreational facilities & services,7,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",music,5,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",commercial real estate,4,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",executive office,4,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",venture capital & private equity,3,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",education management,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",events services,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",hospitality,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",individual & family services,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",insurance,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",sports,2,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",accounting,1,176,1.5%
+"Other / Misc (finance, media, gov, etc.)",nonprofit organization management,1,176,1.5%
+Medical & Pharma,medical devices,110,161,1.4%
+Medical & Pharma,pharmaceuticals,40,161,1.4%
+Medical & Pharma,hospital & health care,5,161,1.4%
+Medical & Pharma,"health, wellness & fitness",4,161,1.4%
+Medical & Pharma,veterinary,2,161,1.4%

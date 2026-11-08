@@ -24,7 +24,7 @@ Format rules:
 
 | Timestamp | Prompt summary | Skill invoked | Output / outcome |
 |-----------|---------------|---------------|------------------|
-| | | | |
+| 2026-11-02 | Review raw docs + manufacturing lists, propose 5 ranked offers with case studies | pattern-detector + offer design (ad hoc) | Log under 10 rows, detection skipped. Delivered 5 ranked offers + list quality findings in chat |
 
 ---
 

@@ -1,0 +1,100 @@
+Segment,Sub-niche,Leads,Companies
+Non-manufacturing / Other,construction,842,368
+Non-manufacturing / Other,information technology & services,410,166
+Non-manufacturing / Other,oil & energy,354,140
+Non-manufacturing / Other,retail,349,169
+Non-manufacturing / Other,telecommunications,180,80
+Non-manufacturing / Other,renewables & environment,175,56
+Non-manufacturing / Other,logistics & supply chain,160,68
+Non-manufacturing / Other,wholesale,144,75
+Non-manufacturing / Other,utilities,128,39
+Non-manufacturing / Other,environmental services,103,37
+Non-manufacturing / Other,management consulting,96,30
+Non-manufacturing / Other,civil engineering,73,32
+Non-manufacturing / Other,transportation/trucking/railroad,73,47
+Non-manufacturing / Other,design,72,33
+Non-manufacturing / Other,architecture & planning,53,24
+Non-manufacturing / Other,marketing & advertising,50,28
+Non-manufacturing / Other,facilities services,49,25
+Non-manufacturing / Other,public safety,39,11
+Non-manufacturing / Other,consumer services,31,12
+Non-manufacturing / Other,investment management,27,11
+Non-manufacturing / Other,gambling & casinos,25,24
+Non-manufacturing / Other,(blank),19,12
+Non-manufacturing / Other,research,18,13
+Non-manufacturing / Other,entertainment,17,11
+Non-manufacturing / Other,government administration,15,8
+Non-manufacturing / Other,security & investigations,15,9
+Non-manufacturing / Other,warehousing,14,9
+Non-manufacturing / Other,law practice,13,3
+Non-manufacturing / Other,media production,12,4
+Non-manufacturing / Other,financial services,11,9
+Non-manufacturing / Other,staffing & recruiting,9,2
+Non-manufacturing / Other,recreational facilities & services,7,1
+Non-manufacturing / Other,supermarkets,6,1
+Non-manufacturing / Other,hospital & health care,5,5
+Non-manufacturing / Other,music,5,2
+Non-manufacturing / Other,commercial real estate,4,2
+Non-manufacturing / Other,executive office,4,4
+Non-manufacturing / Other,"health, wellness & fitness",4,3
+Non-manufacturing / Other,business supplies & equipment,3,3
+Non-manufacturing / Other,venture capital & private equity,3,1
+Non-manufacturing / Other,education management,2,1
+Non-manufacturing / Other,events services,2,2
+Non-manufacturing / Other,hospitality,2,2
+Non-manufacturing / Other,individual & family services,2,1
+Non-manufacturing / Other,information services,2,2
+Non-manufacturing / Other,insurance,2,1
+Non-manufacturing / Other,sports,2,2
+Non-manufacturing / Other,veterinary,2,1
+Non-manufacturing / Other,accounting,1,1
+Non-manufacturing / Other,import & export,1,1
+Non-manufacturing / Other,international trade & development,1,1
+Non-manufacturing / Other,market research,1,1
+Non-manufacturing / Other,nonprofit organization management,1,1
+Non-manufacturing / Other,outsourcing/offshoring,1,1
+Non-manufacturing / Other,restaurants,1,1
+Industrial Machinery & Equipment,General Industrial Machinery,1182,521
+Industrial Machinery & Equipment,"Automation, Robotics & Motion Control",395,185
+Industrial Machinery & Equipment,"Engines, Power Systems & Generators",343,90
+Industrial Machinery & Equipment,"Construction, Mining & Heavy Equipment",337,142
+Industrial Machinery & Equipment,"Industrial Tools, Machining & 3D Printing",234,107
+Industrial Machinery & Equipment,"Pumps, Valves, Filtration & Flow",213,114
+Industrial Machinery & Equipment,"HVAC, Thermal & Building Systems",133,72
+Industrial Machinery & Equipment,Material Handling & Packaging Machinery,64,38
+Electronics & Electrical Equipment,General Electronics Manufacturing,472,245
+Electronics & Electrical Equipment,"Power, Grid & Electrical Equipment",287,156
+Electronics & Electrical Equipment,Appliances & Home Electronics,273,154
+Electronics & Electrical Equipment,Semiconductors & Semiconductor Equipment,200,156
+Electronics & Electrical Equipment,"Sensors, Connectors & Components",177,87
+Electronics & Electrical Equipment,"Computer, Networking & Telecom Hardware",145,85
+"Packaging, Plastics, Paper & Printing",Flexible & Food/Beverage Packaging,266,100
+"Packaging, Plastics, Paper & Printing","Rigid, Plastic & Protective Packaging",198,113
+"Packaging, Plastics, Paper & Printing",General Packaging,189,108
+"Packaging, Plastics, Paper & Printing","Paper, Corrugated & Folding Cartons",134,72
+"Packaging, Plastics, Paper & Printing",Plastics Molding & Polymers,110,60
+"Packaging, Plastics, Paper & Printing",Printing & Labels,38,18
+Building Materials & Products,"Windows, Doors & Millwork",254,124
+Building Materials & Products,"Cement, Concrete, Aggregates & Asphalt",225,91
+Building Materials & Products,General Building Products,218,85
+Building Materials & Products,"Roofing, Siding, Insulation & Flooring",134,61
+Building Materials & Products,"Lumber, Steel & Structural Products",51,28
+Automotive & Transportation Equipment,"Heavy Trucks, Engines & Powertrain",254,62
+Automotive & Transportation Equipment,General Automotive Manufacturing,246,108
+Automotive & Transportation Equipment,Auto Parts & Components (OEM / Aftermarket),211,80
+Automotive & Transportation Equipment,"Vehicle OEMs, EV & Autonomy",89,54
+Automotive & Transportation Equipment,Rail & Shipbuilding,11,10
+Chemicals & Metals,Specialty & Industrial Chemicals,166,74
+Chemicals & Metals,General Chemicals & Metals,56,38
+Chemicals & Metals,"Steel, Aluminum & Metal Products",45,23
+Chemicals & Metals,Mining & Minerals,41,20
+"Consumer Goods, Food & Furniture",General Consumer Goods,169,97
+"Consumer Goods, Food & Furniture",Furniture & Home Goods,84,41
+"Consumer Goods, Food & Furniture",Food & Beverage Production,51,32
+"Consumer Goods, Food & Furniture","Apparel, Textiles & Sporting Goods",2,2
+Aerospace & Defense,Defense & Space,132,57
+Aerospace & Defense,General Aerospace & Defense,53,22
+Aerospace & Defense,Commercial Aerospace & Aviation,14,8
+Medical Devices & Pharma,General Medical,74,34
+Medical Devices & Pharma,Medical Devices & Equipment,55,31
+Medical Devices & Pharma,Pharma & Life Sciences Manufacturing,21,10
