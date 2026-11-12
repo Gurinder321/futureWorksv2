@@ -31,7 +31,9 @@ We worked with Partsimony and put manufacturing sourcing and CAD file analysis i
 
 Happy to share the playbook up front, no strings attached.
 
-## General Industrial Machinery (DRAFT, not sent, 687 leads before cleaning)
+## General Industrial Machinery (LIVE since 2026-11-11, 597 leads, campaign "Machinery - Role-Based Email 1 - 2026-11-11")
+
+Filters: 687 leads, minus HR/legal/sales/BD titles = 598 (597 uploaded, 1 blocklisted). Role split: Operations 207, CEO/GM 130, IT 107, Finance 80, Engineering 74. Schedule Mon-Fri 8:00-18:00 America/Chicago, 100 accounts, tracking off, stop on reply. Check at 200 sent: 0 replies, 4 bounces (2.0%).
 
 Same as Oil & Energy except Operations:
 
